@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" ,Latina Tv
+https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/319fed2157fa4c48ae2f81928b21f8a4/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5ce7109c7398b977dc0744cd/fa69ad05-6dfb-4ff1-a8d9-ce5a05e9e1d9/3.m3u8?aid=5ce70c587398b977dc0743b5&uid=bfkfiq85dpiyj0mm6htvtp7sjnmczvpe&sid=wqyqmfxmpk4ftojrgu4cs5oho3lli5nz&pid=ximvbyme66jxdrorakpsf5puc8nxsqrx&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&dnt=true&es=live-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=efbdx1hgdmzv3kh4y8paj9twad9hiqlxuw5tvgvhjstixpkb7nrdgpooe9fxuhntvytrm7hzlm1&manifestfilter=video_height:240-480&hash=0d75691a4b570cac84977
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" ,Tv Perú
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" ,ATV 
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" ,ATV+ 
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" ,Panamericana Tv
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFsMote_GON3cmuIhggLacf8)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" ,Willax Tv
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmg4NHF_7FtmVGn88x0bvYMo)/dm/3/x7x4dgx/s/live-2.m3u8#cell=lnyc
+
