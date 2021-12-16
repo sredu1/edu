@@ -11,3 +11,60 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3
 https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFsMote_GON3cmuIhggLacf8)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" ,Willax Tv
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmg4NHF_7FtmVGn88x0bvYMo)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+#EXTINF: -1 tvg-logo = "", Best Cable Perú
+https://tv.siete.us/bestcable/bestcable/index.m3u8
+#EXTINF: -1 tvg-logo = "", Best Cable Sports Perú
+https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
+#EXTINF: -1 tvg-logo = "", 3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF: -1 tvg-logo = "", AgrotendenciaTV
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+#EXTINF: -1 tvg-logo = "", Andes Televisión (Sicuani)
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w1767245713.m3u8
+#EXTINF: -1 tvg-logo = "", Antares Televisión
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF: -1 tvg-logo = "", AsiriTV (Lima)
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF: -1 tvg-logo = "", ATM Televisión (Apurimac)
+https://v4.tustreaming.cl/atmtv/index.m3u8
+#EXTINF: -1 tvg-logo = "", Bella Abanquina TV (Apurimac)
+https://v4.tustreaming.cl/bellatv/index.m3u8
+#EXTINF: -1 tvg-logo = "", Best Cable Más Cumbia
+https://tv.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF: -1 tvg-logo = "", Best Cable Música
+https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF: -1 tvg-logo = "", Televisión por cable
+https://tv.siete.us/cntv/index.m3u8
+#EXTINF: -1 tvg-logo = "", Cadena TV Huancayo
+https://tvdatta.com:3262/live/cadenatvlive.m3u8
+#EXTINF: -1 tvg-logo = "", Cajamarca TV
+https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF: -1 tvg-logo = "", Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo = "", Canal E (Evelyn) (Altomayo)
+https://srv1.mediastreamperu.com:8081/8006/index.m3u8
+#EXTINF: -1 tvg-logo = "", Canal B Noticias
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/alfonsobaella/live
+#EXTINF: -1 tvg-logo = "", Caribe Televisión (Otuzco)
+http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
+#EXTINF: -1 tvg-logo = "", Claro Sports
+http://45.179.140.242:8000/play/a0ht
+#EXTINF: -1 tvg-logo = "", ClipsTV (Ica)
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF: -1 tvg-logo = "", CNC Digital (Iquitos)
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
+#EXTINF: -1 tvg-logo = "", Conecta2TV (Lima)
+https://mediastreamm.com:3528/live/conect2tvlive.m3u8
+#EXTINF: -1 tvg-logo = "", Contacto Deportivo
+https://live.obslivestream.com/cdeportivomux/index.m3u8
+#EXTINF: -1 tvg-logo = "", CreoTV (Cajamarca)
+https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
+#EXTINF: -1 tvg-logo = "", CVM TV digital
+https://stmv.panel.grupolimalive.com/cvmtv/cvmtv/playlist.m3u8
+#EXTINF: -1 tvg-logo = "", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF: -1 tvg-logo = "", Exitosa TV
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF: -1 tvg-logo = "", Francia 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
