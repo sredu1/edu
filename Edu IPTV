@@ -8,9 +8,9 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" ,ATV+ 
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png" ,Panamericana Tv
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFsMote_GON3cmuIhggLacf8)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg2fB5cyBHUmJ-CLPrUfkLQ)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" ,Willax Tv
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmg4NHF_7FtmVGn88x0bvYMo)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBml5N9WlETsPj9jcCCZhcpgw)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 #EXTINF: -1 tvg-logo = "", Best Cable Perú
 https://tv.siete.us/bestcable/bestcable/index.m3u8
 #EXTINF: -1 tvg-logo = "", Best Cable Sports Perú
