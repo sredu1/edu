@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" ,Latina Tv
+https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b13165702371666760afade31d&sid=ba5t1l1xb229730360566760b8e96ec9&ndvc=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" ,America Tv 1
+https://1.tiofutbol.com/lb/eventos/index.m3u8?token=677cffd531993906b1c033bf49be4f9a06de4133-ded618ca7a77f82e0432ca3f2a65a3c3-1719023798-1719012998&remote=179.7.72.76
