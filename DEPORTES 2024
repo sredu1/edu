@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" ,Latina Tv
 https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b13165702371666760afade31d&sid=ba5t1l1xb229730360566760b8e96ec9&ndvc=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" ,America Tv 1
-https://1.tiofutbol.com/lb/eventos/index.m3u8?token=78552b763a7c2e142e36074cefdc06058b12fa6e-ef7a9b1e2e9732cc942d5d293cd57a14-1719029357-1719018557&remote=179.6.154.49
+https://server.betzta.com/lb/america/index.m3u8?token=637466e263b0340f9ea7b8704b224a13a21f1473-3bf40875d10001e0e7c89f2656a7c9fb-1719033173-1719022373&remote=179.6.154.49
