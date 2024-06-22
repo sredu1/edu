@@ -17,3 +17,5 @@ https://server3.betzta.com/america/tracks-v1a1/mono.m3u8?remote=179.7.72.76&toke
 https://live-c.cf.dmcdn.net/sec2(lKXJn8C8wEfT4Kyi4G8QBein-706GdOWwEcGCbqHsLPGqizIK8xJZayOasR7j1BdVk5FU1wf-_Esaz59cqY9BFY31yx05xnJ6KlYwGCxoRo)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" ,Tv Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+#EXTINF:-1 tvg-logo="" ,ESPN
+https://b9dw5h2ujrmzkce86psyvn.cdnessential.net:8443/hls/cghcs9l993ssq8.m3u8?s=fE1uKAR9Oaq6w8zptb6hXg&e=1719099257
